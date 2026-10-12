@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">24012021038_MAD_PR7</string>
+
+    <string name="refresh_data">Refresh Data</string>
+
+    <string name="person_avatar">Person Avatar</string>
+
+    <string name="delete_person">Delete Person</string>
+
+</resources>
